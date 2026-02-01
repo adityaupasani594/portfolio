@@ -40,11 +40,11 @@ const Hero = () => {
         
         {/* Professional tagline */}
         <p className="text-xl md:text-2xl lg:text-3xl text-primary-600 font-light mb-4 text-balance">
-          Full Stack Developer & UI/UX Enthusiast
+          Flutter & Quantum Computing Enthusiast
         </p>
         
         <p className="text-base md:text-lg text-primary-500 mb-12 max-w-2xl mx-auto text-balance">
-          Crafting elegant solutions and exceptional digital experiences
+          Bachelor of Engineering in Computer Engineering with dual minors in Artificial Intelligence & Machine Learning and Quantum Technologies
         </p>
 
         {/* Call-to-action buttons */}
